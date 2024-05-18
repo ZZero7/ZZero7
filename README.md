@@ -4,9 +4,9 @@
 <img src="https://komarev.com/ghpvc/?username=zzero7&label=Profile%20views&color=green&style=plastic" alt="zzero7" width="150" height="auto"/>
 
   <div style="display: flex; justify-content:between; align-items:between;">
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="zzero7" width="150" height="90" />
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="zzero7" width="200" height="120" />
     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="zzero7" width="250" height="250" />
- <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="zzero7" width="150" height="90"/>
+ <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="zzero7" width="200" height="130"/>
    
 </div>
  
