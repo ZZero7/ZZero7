@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 | <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ZZero7&theme=tokyonight&show_icons=true&count_private=true" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZero7&theme=tokyonight) |
 | --- | --- | 
-| ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZZero7&theme=tokyonight) |
+| ![Dinith GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZZero7&theme=tokyonight) |
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
