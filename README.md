@@ -14,7 +14,7 @@
     
 ---
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=ZZero7&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZero7&theme=tokyonight) |
+| <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ZZero7&theme=tokyonight&show_icons=true&count_private=true" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZero7&theme=tokyonight) |
 | --- | --- | 
 | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZZero7&theme=tokyonight) |
 
