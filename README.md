@@ -1,26 +1,37 @@
-<h1 align="center">Hi 👋, I'm Dinith Rusiru</h1>
-<h3 align="center">Passionate IT Student</h3>
-<div>
-  <img src="https://komarev.com/ghpvc/?username=zzero7&label=Profile%20views&color=0e75b6&style=flat" alt="zzero7" />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dinith Rusiru </h1>
+ <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=800&height=50&lines=Hi+there+I'm+Dinith+%F0%9F%91%8B;Passionate+IT+Student;Web+Developer;" alt="Headline"/>
+ <div align="center">
+<img src="https://komarev.com/ghpvc/?username=zzero7&label=Profile%20views&color=green&style=plastic" alt="zzero7" width="150" height="auto"/>
+
 </div>
-  </div>
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="zzero7" width="200" height="200" />
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="zzero7" width="300" height="300" />
 </div>
+  <div>
+  <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwMzQ2NTMsIm5iZiI6MTcxNjAzNDM1MywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE4VDEyMTIzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlN2Q5N2E1YTBiN2E1MzIxYzg1NDMzOGU2ZWQzM2U2YTZlZTMyZmNkODVkYzI3NjkxZTAwYmI4ZTE1MTI0MzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.G9vIwsoED5ohkpwWuWUD6VBHDJPxhEvUqI6ajANFgmA" alt="zzero7" width="2000" height="100" />
+</div>
+ 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    - 🌱 I’m currently Undergraduate **at SLIIT**<br>
-    - 💬 Ask me about **react**<br>
-    - 📫 How to reach me **dinithrusiru1@gmail.com**
-    
----
+    - 🌱 I’m currently Undergraduate at SLIIT<br>
+    - 💬 Ask me about react<br>
+    - 📫 How to reach me dinithrusiru1@gmail.com
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 | <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ZZero7&theme=tokyonight&show_icons=true&count_private=true" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZero7&theme=tokyonight) |
 | --- | --- | 
 | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZZero7&theme=tokyonight) |
 
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
 <p align="left"></p>
 
-<h3 align="s=center">Languages and Tools:</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -75,6 +86,12 @@
   </a>
 </p>
 
+<div style="display: flex; justify-content:between; align-items:between;">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="zzero7" width="300" height="180" />
+ <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="zzero7" width="300" height="180"/>
+   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="zzero7" width="300" height="180"/>
+</div> 
+
 ---
 
 <h3 align="left">Support:</h3>
@@ -83,4 +100,5 @@
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="200" alt="ZZero7" />
   </a>
 </p>
+
 <br><br>
