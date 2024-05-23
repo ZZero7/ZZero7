@@ -16,8 +16,9 @@
     - 💬 Ask me about react<br>
     - 📫 How to reach me dinithrusiru1@gmail.com
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br></br>
 
 | <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ZZero7&theme=tokyonight&show_icons=true&count_private=true" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZZero7&theme=tokyonight) |
 | --- | --- | 
