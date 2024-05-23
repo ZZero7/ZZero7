@@ -14,7 +14,7 @@
   <div>
     - 🌱 I’m currently Undergraduate at SLIIT<br>
     - 💬 Ask me about react<br>
-    - 📫 How to reach me dinithrusiru1@gmail.com
+    - 📫 How to reach me **dinithrusiru1@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
