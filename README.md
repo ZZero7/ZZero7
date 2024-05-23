@@ -10,11 +10,18 @@
    
 </div>
  
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    - 🌱 I’m currently Undergraduate at SLIIT<br>
-    - 💬 Ask me about react<br>
-    - 📫 How to reach me **dinithrusiru1@gmail.com**
+
+ <div align="left">   
+  
+ -  🌱 I’m currently learning **React**
+
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
+- 💬 Ask me about **Mern**
+
+- 📫 How to reach me **dinithrusiru1@gmsil.com**
+  
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
