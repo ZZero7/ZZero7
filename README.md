@@ -1,7 +1,7 @@
   <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="100" height="50" ">, I am Dinith Rusiru </h1>
  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=800&height=50&lines=Hi+there+I'm+Dinith+%F0%9F%91%8B;Passionate+IT+Student;Full+Stuck+Developer;" alt="Headline"/>
    <div align="left">
-<img src="https://komarev.com/ghpvc/?username=zzero7&label=Profile%20views&color=green&style=plastic" alt="zzero7" width="150" height="auto"/>
+<img src="https://komarev.com/ghpvc/?username=zzero7&label=Profile%20views&color=green&style=plastic" alt="zzero7" width="150" height="auto"/> 
 
   <div style="display: flex; justify-content:between; align-items:between;"> 
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="zzero7" width="200" height="120" />
